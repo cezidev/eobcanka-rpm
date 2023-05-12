@@ -25,6 +25,15 @@ $ sudo ./eobcanka_deb2rpm.sh eObcanka.deb
 $ sudo dnf install eObcanka-*.rpm
 ```
 
+---
+OR:
+
+```commandline
+$ git clone git@github.com:bocekm/eobcanka-rpm.git
+$ cd eobcanka-rpm
+$ sudo ./processAll.sh
+```
+
 ## Autoři / Authors
 
 CZ:<br>
